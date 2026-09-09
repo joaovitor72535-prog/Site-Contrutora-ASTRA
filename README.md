@@ -31,4 +31,3 @@ Verificações: TypeScript, build de produção e resposta HTTP local. Não fora
 A cena final usa madeira, reboco e tecido PBR do Poly Haven (CC0), com mapas de cor, normal e rugosidade em escala física. Iluminação de ambiente HDR Rooitou Park, luzes de área nas aberturas e luminárias, vidro com transmissão no desktop e bordas arredondadas nos móveis. Créditos e URLs exatos em `public/materials/attribution.json`.
 
 As texturas são carregadas ao avançar na narrativa. O desktop usa oclusão ambiente GTAO em resolução reduzida; o celular mantém os materiais e as sombras diretas sem esse passe adicional. Folhagens usam instâncias para reduzir chamadas de desenho.
-

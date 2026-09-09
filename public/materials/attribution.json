@@ -1,0 +1,199 @@
+[
+  {
+    "asset": "wood_floor",
+    "role": "Diffuse",
+    "path": "/materials/wood-color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_diff_1k.jpg",
+    "bytes": 734493,
+    "md5": "b7e927d2bf2f8f103820ff3890c8407c",
+    "source": "https://polyhaven.com/a/wood_floor",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1699.9996900558472,
+      1699.9996900558472
+    ],
+    "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "wood_floor",
+    "role": "nor_gl",
+    "path": "/materials/wood-normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_nor_gl_1k.jpg",
+    "bytes": 423303,
+    "md5": "620f174d2c09b579c5d02d37b2106668",
+    "source": "https://polyhaven.com/a/wood_floor",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1699.9996900558472,
+      1699.9996900558472
+    ],
+    "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "wood_floor",
+    "role": "Rough",
+    "path": "/materials/wood-roughness.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_rough_1k.jpg",
+    "bytes": 527754,
+    "md5": "36146634f1dbd1bc30cd071857584c10",
+    "source": "https://polyhaven.com/a/wood_floor",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1699.9996900558472,
+      1699.9996900558472
+    ],
+    "description": "Free 8K material: warm medium-brown wood floor texture with narrow planks, visible oak grain, subtle seams and a smooth satin finish.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "white_plaster_02",
+    "role": "Diffuse",
+    "path": "/materials/plaster-color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_diff_1k.jpg",
+    "bytes": 527219,
+    "md5": "7b10c2686bcfd76d1f309a20fd06b57e",
+    "source": "https://polyhaven.com/a/white_plaster_02",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1000,
+      1000
+    ],
+    "description": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "white_plaster_02",
+    "role": "nor_gl",
+    "path": "/materials/plaster-normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_nor_gl_1k.jpg",
+    "bytes": 652310,
+    "md5": "55fc03203ebf1dc703a380fde93ff502",
+    "source": "https://polyhaven.com/a/white_plaster_02",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1000,
+      1000
+    ],
+    "description": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "white_plaster_02",
+    "role": "Rough",
+    "path": "/materials/plaster-roughness.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_rough_1k.jpg",
+    "bytes": 295900,
+    "md5": "8b28f263360b8c4ddbdc4f7c650c4eeb",
+    "source": "https://polyhaven.com/a/white_plaster_02",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      1000,
+      1000
+    ],
+    "description": "Free 8K plaster texture: smooth, flat white plaster with a soft matte finish, fine micro-roughness and subtle dirt speckling across the surface.",
+    "pixelDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "asset": "cotton_jersey",
+    "role": "Diffuse",
+    "path": "/materials/fabric-color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cotton_jersey/cotton_jersey_diff_1k.jpg",
+    "bytes": 581360,
+    "md5": "d2f4493fdd48634b50d40f810ce9deb7",
+    "source": "https://polyhaven.com/a/cotton_jersey",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      263.6027473872483,
+      263.7999951839447
+    ],
+    "description": "Free cotton jersey PBR texture: beige, matte ribbed knit with subtle roughness and stretch - great for garments, upholstery and realistic cloth shading.",
+    "pixelDimensions": [
+      1024,
+      1025
+    ]
+  },
+  {
+    "asset": "cotton_jersey",
+    "role": "nor_gl",
+    "path": "/materials/fabric-normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cotton_jersey/cotton_jersey_nor_gl_1k.jpg",
+    "bytes": 678670,
+    "md5": "2dcc9dda3b726477f607c808e52f1833",
+    "source": "https://polyhaven.com/a/cotton_jersey",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      263.6027473872483,
+      263.7999951839447
+    ],
+    "description": "Free cotton jersey PBR texture: beige, matte ribbed knit with subtle roughness and stretch - great for garments, upholstery and realistic cloth shading.",
+    "pixelDimensions": [
+      1024,
+      1025
+    ]
+  },
+  {
+    "asset": "cotton_jersey",
+    "role": "Rough",
+    "path": "/materials/fabric-roughness.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cotton_jersey/cotton_jersey_rough_1k.jpg",
+    "bytes": 865264,
+    "md5": "ac691d215d3aca34dcd6ea2d03937286",
+    "source": "https://polyhaven.com/a/cotton_jersey",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": [
+      263.6027473872483,
+      263.7999951839447
+    ],
+    "description": "Free cotton jersey PBR texture: beige, matte ribbed knit with subtle roughness and stretch - great for garments, upholstery and realistic cloth shading.",
+    "pixelDimensions": [
+      1024,
+      1025
+    ]
+  },
+  {
+    "asset": "rooitou_park",
+    "role": "hdri",
+    "path": "/materials/daylight.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rooitou_park_1k.hdr",
+    "bytes": 1588504,
+    "md5": "1e78936ef17cc1dabaebd4e0bc776e47",
+    "source": "https://polyhaven.com/a/rooitou_park",
+    "license": "https://polyhaven.com/license",
+    "licenseIdentifier": "CC0-1.0",
+    "dimensionsMillimeters": null,
+    "description": "Free 16K unclipped HDRI: Rooitou Park at near-sunset, clear sky and bright sun, high-contrast warm light, long shadows and vibrant green grass.",
+    "pixelDimensions": [
+      1024,
+      512
+    ]
+  }
+]
